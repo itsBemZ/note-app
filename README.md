@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# note-app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [JSON Server](https://github.com/typicode/json-server) .
 
